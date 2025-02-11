@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
 	return (
 		<div className="text-white font-semibold text-center flex items-center flex-col gap-4 min-h-screen justify-center">
